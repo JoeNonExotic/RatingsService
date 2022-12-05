@@ -1,0 +1,13 @@
+{
+  "name": "ratingsservice",
+  "version": "0.0.1",
+  "description": "Simple express based service",
+  "scripts": {
+    "test": "echo OK"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "author": "JoeNonExotic",
+  "license": "Unlicense"
+}
